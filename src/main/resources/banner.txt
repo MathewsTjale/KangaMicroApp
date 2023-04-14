@@ -1,0 +1,9 @@
+
+${AnsiColor.RED}
+#########
+###
+### Kanga-App
+###
+### ${AnsiColor.BRIGHT_CYAN} AppVersion: ${AnsiColor.BRIGHT_YELLOW}${application.formatted-version}${AnsiColor.BRIGHT_CYAN} - built with Spring Boot ${AnsiColor.BRIGHT_YELLOW}${spring-boot.formatted-version}${AnsiStyle.NORMAL}${AnsiColor.RED}
+#########
+${AnsiColor.WHITE}
